@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hey there, i'm Vikas! 👋
 
 <!--
 **sharmacoder707/sharmacoder707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+A student and a passionate programmer  from Jharkhand, India.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+Talking about Personal Stuffs:
+
+- 🔭 I’m a Software Developer 
+- 🌱 I’m currently learning Tensorflow
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🤔 My interests are with Quantum ML,DeepLearning 🖥️, Data Science 📊, BGMI, Space 🚀, etc..;
+- 🎬 love watching Comics, movies and BodyBulding🏋️‍♀️
+- 💬 Ask me about anything, I am happy to help; 
+- 📫 Please email via vkssharma75@gmail.com or ping me on LinkedIn to reach me;
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Worked with
