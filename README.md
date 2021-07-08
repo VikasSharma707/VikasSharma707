@@ -3,7 +3,7 @@
 A **Student** 👨‍🎓and a **Passionate programmer**  from Jharkhand, India.
 
 **Talking about Personal Stuffs:**
-<img align="right" height="300" width="350" src="https://media.giphy.com/media/xTiN0FXnoSlDhSjgR2/giphy.gif" alt="Your image title" />
+<img align="right" height="300" width="350" src="https://media.giphy.com/media/3oEduOXu3DBfTazzaw/giphy.gif" alt="Your image title" />
 
 - 🔭 I’m a Software Developer 
 - 🌱 I’m currently learning Tensorflow
