@@ -1,21 +1,20 @@
 ### Hey there, i'm Vikas! 👋
-<!--
-**sharmacoder707/sharmacoder707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<A student and a passionate programmer  from Jharkhand, India.>
+A **Student** 👨‍🎓and a **Passionate programmer**  from Jharkhand, India.
 
-Talking about Personal Stuffs:
+**Talking about Personal Stuffs:**
+<img align="right" src="https://media.giphy.com/media/xTiN0FXnoSlDhSjgR2/giphy.gif" alt="Your image title" width="350"/>
 
 - 🔭 I’m a Software Developer 
 - 🌱 I’m currently learning Tensorflow
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m happly looking to collaborate with others
 - 🤔 My interests are with Quantum ML,DeepLearning 🖥️, Data Science 📊, BGMI, Space 🚀, etc..;
 - 🎬 love watching Comics, movies and BodyBulding🏋️‍♀️
 - 💬 Ask me about anything, I am happy to help; 
-- 📫 Please email via vkssharma75@gmail.com or ping me on LinkedIn to reach me;
+- 📫 Please email via vkssharma75@gmail.com or ping me on [Linkedin](https://www.linkedin.com/in/vikas-kumar707/) to reach me;
 - ⚡ Fun fact: All someone need is Inteligence!!
--->
-<img src="https://octodex.github.com/images/yaktocat.png" alt="Your image title" width="250"/>
+
+
 
 ### Worked with:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Your image title" width="70"/>,
