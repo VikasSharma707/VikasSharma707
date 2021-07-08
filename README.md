@@ -26,7 +26,12 @@ A **Student** 👨‍🎓and a **Passionate programmer**  from Jharkhand, India.
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="Your image title" width="100"/>,
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Your image title" width="100"/>,
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/TensorFlowLogo.svg" alt="Your image title" width="70"/>,
-<img src="https://logovtor.com/wp-content/uploads/2020/11/pennylane-tech-logo-vector.png" alt="Your image title" width="100"/>
+<img src="https://logovtor.com/wp-content/uploads/2020/11/pennylane-tech-logo-vector.png" alt="Your image title" width="100"/>,
+<img src="https://freepngimg.com/download/ibm/67893-ibm-database-computer-sql-db2-software.png" alt="Your image title" width="70"/>,
+<img src="https://i2.wp.com/crackedwin.com/wp-content/uploads/2019/01/matlab.jpg?fit=225%2C225&ssl=1" alt="Your image title" width="60"/>
 
 ### Follow me:
-[linkedin](https://www.linkedin.com/in/vikas-kumar707/)
+<p>
+  <a href="https://www.linkedin.com/in/vikas-kumar707/" rel="nofollow"><img height="50" width="50" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-icon-png.png" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-Vikas%20Sharma-blue?style=flat-circle&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/vikas-kumar707/" style="max-width:100%;"></a>,
+  <a href="https://github.com/sharmacoder707" rel="nofollow"><img height="50" width="50" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-Vikas%20Sharma-blue?style=flat-circle&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://github.com/sharmacoder707" style="max-width:100%;"></a>
+</p>
