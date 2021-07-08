@@ -1,5 +1,4 @@
 ### Hey there, i'm Vikas! 👋
-
 <!--
 **sharmacoder707/sharmacoder707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,4 +17,3 @@ Talking about Personal Stuffs:
 - ⚡ Fun fact: ...
 -->
 
-Worked with
