@@ -3,7 +3,7 @@
 A **Student** 👨‍🎓and a **Passionate programmer**  from Jharkhand, India.
 
 **Talking about Personal Stuffs:**
-<img align="right" src="https://media.giphy.com/media/xTiN0FXnoSlDhSjgR2/giphy.gif" alt="Your image title" width="350"/>
+<img align="right" height="300" width="350" src="https://media.giphy.com/media/xTiN0FXnoSlDhSjgR2/giphy.gif" alt="Your image title" />
 
 - 🔭 I’m a Software Developer 
 - 🌱 I’m currently learning Tensorflow
@@ -13,6 +13,10 @@ A **Student** 👨‍🎓and a **Passionate programmer**  from Jharkhand, India.
 - 💬 Ask me about anything, I am happy to help; 
 - 📫 Please email via vkssharma75@gmail.com or ping me on [Linkedin](https://www.linkedin.com/in/vikas-kumar707/) to reach me;
 - ⚡ Fun fact: All someone need is Inteligence!!
+
+
+
+
 
 
 
