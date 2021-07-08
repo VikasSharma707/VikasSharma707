@@ -13,7 +13,6 @@ Talking about Personal Stuffs:
 - 🎬 love watching Comics, movies and BodyBulding🏋️‍♀️
 - 💬 Ask me about anything, I am happy to help; 
 - 📫 Please email via vkssharma75@gmail.com or ping me on LinkedIn to reach me;
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: All someone need is Inteligence!!
 -->
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
