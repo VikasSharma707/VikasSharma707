@@ -1,5 +1,5 @@
-### Hey there, i'm Vikas! 👋
-
+<img src="https://www.coolgenerator.com/Data/Textdesign/202107/998dd0f8b92c635c98e4f96fde395671.png" alt="Your image title" width="300"/>,
+  
 A **Student** 👨‍🎓and a **Passionate programmer**  from Jharkhand, India.
 
 **Talking about Personal Stuffs:**
