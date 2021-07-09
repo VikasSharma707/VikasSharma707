@@ -28,7 +28,10 @@ A **Student** 👨‍🎓and a **Passionate programmer**  from Jharkhand, India.
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/TensorFlowLogo.svg" alt="Your image title" width="70"/>,
 <img src="https://logovtor.com/wp-content/uploads/2020/11/pennylane-tech-logo-vector.png" alt="Your image title" width="100"/>,
 <img src="https://freepngimg.com/download/ibm/67893-ibm-database-computer-sql-db2-software.png" alt="Your image title" width="70"/>,
-<img src="https://i2.wp.com/crackedwin.com/wp-content/uploads/2019/01/matlab.jpg?fit=225%2C225&ssl=1" alt="Your image title" width="60"/>
+<img src="https://i2.wp.com/crackedwin.com/wp-content/uploads/2019/01/matlab.jpg?fit=225%2C225&ssl=1" alt="Your image title" width="60"/>,
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/24/IBM_Cloud_logo.png" alt="Your image title" width="70"/>,
+<img src="https://resources.appen.com/wp-content/uploads/2020/08/ibm-watson-logo.png" alt="Your image title" width="90"/>,
+<img src="https://image.pngaaa.com/125/1971125-middle.png" alt="Your image title" width="90"/>
 
 ### Follow me:
 <p>
