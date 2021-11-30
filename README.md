@@ -1,6 +1,6 @@
 <img src="https://www.coolgenerator.com/Data/Textdesign/202107/998dd0f8b92c635c98e4f96fde395671.png" alt="Your image title" width="300"/>,
   
-A **Student** 👨‍🎓and a **Passionate programmer**  from Jharkhand, India.
+A **Student** 👨‍🎓and a **Machine Learning Engineer**  from Jharkhand, India.
 
 **Talking about Personal Stuffs:**
 <img align="right" height="300" width="350" src="https://media.giphy.com/media/3oEduOXu3DBfTazzaw/giphy.gif" alt="Your image title" />
